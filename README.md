@@ -1,5 +1,5 @@
 # DVDRental
-simple project challenge in java in 5hours after after taking the javastart course.
+simple project challenge in java in 5hours after taking the javastart course.
 Application  use .csv files for storing dvd and clients data. Each DVD entry should contains 
 following fields:
 - Title
